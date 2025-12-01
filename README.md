@@ -21,41 +21,35 @@ I'm a passionate Data Analyst with experience in Excel, Power BI, SQl technologi
 
 ### 🛠️ Tech Stack
 
-**Backend:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Data Analysis & Visualization:**
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Dashboard Development (Power BI)
+- DAX
+- Power Query
+- KPI Tracking & Reporting
+- Trend & Pattern Analysis
+ 
+**Tools & Technologies:**
+- Microsoft Excel
+- Power BI,
+- MySQL/SQL Workbench
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logoColor=000000)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-white?style=for-the-badge&logo=openai&logoColor=000000)
-
-
+**Database & ETL:**
+- SQL
+- Database Management
+-  Data Extraction & Transformation 
 ---
 
 ### 💼 Work Experience
 
-**Associate Software Engineer**  
-*[Fladdra Technologies](https://fladdra.com) – Pune | Mar 2024 – Present*
+**Data analyst Intern at GFG**  
 
-- Developed key features (authentication, dashboards) using Django REST Framework and React/Next.js.
-- Built responsive UIs with Tailwind CSS and managed backend with PostgreSQL.
-- Created mobile interfaces using React Native for real-time subscription platforms.
-- Integrated FastAPI, LangChain, ChatGPT, and DeepSeek to auto-generate and evaluate assessments.
-- Utilized MongoDB for document storage and structured user data.
-- Worked in an Agile team: daily standups, code reviews, QA testing.
-- Integrated Google Login and Razorpay payment gateway for secure user authentication and seamless subscription transactions.
+- Built and automated scalable reporting tools using Excel, increasing reporting efficiency by 40% and minimizing manual workload for business.
+- Created interactive Power BI dashboards for performance tracking, trend analysis, and business reporting for senior stakeholders.
+- Preprocessed and cleaned raw data, achieving 95%+ data accuracy, which significantly enhanced the quality of insights and decision-makings teams.
+- Delivered insights through exploratory data analysis (EDA), contributing to a 30% boost in operational productivity and faster turnaround times.
+- Extracted, transformed, and validated large datasets using MS Excel (VLOOKUP, pivot tables, advanced formulas) and SQL queries to support analytical needs.
 
 ---
 
