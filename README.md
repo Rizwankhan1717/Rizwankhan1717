@@ -90,7 +90,7 @@ Prof Ram Meghe Ram college of Engineering and management - Amaravti
 
 - Data Analysis and Visualization with Power BI by Microsoft(Coursera)
 - Code-Cheff: learn SQL & adv SQL
-- Excel: Mother of Business Intelligence by Code basic
+- Excel: Mother of Business Intelligence by Code basic.
 
 ---
 ### 📫 Let's Connect!
