@@ -1,12 +1,12 @@
-## 📌 Mohammad Furqan
+## 📌 Rizwan Ahmad Khan
 
-🚀 **Software Developer** | Full Stack | 
-📍 Pune, India | mohammad.furqan0811@gmail.com
+🚀 **Data Analyst** | BI Developer | 
+📍 Pune, India | rizwankhan0954i@gmail.com
 <div align="left">
-  <a href="mailto:mohammad.furqan0811@gmail.com" target="_blank">
+  <a href="mailto:rizwankhan0954i@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-furqan0811" target="_blank">
+  <a href="https://www.linkedin.com/in/rizwan-ahmad17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -15,7 +15,7 @@
 
 ### 👋  Hello There!
 
-I'm a passionate Software Developer with experience in both frontend and backend technologies.
+I'm a passionate Data Analyst with experience in Excel, Power BI, SQl technologies.
 
 ---
 
@@ -61,79 +61,52 @@ I'm a passionate Software Developer with experience in both frontend and backend
 
 ### 🚀 Projects
 
-#### [CareerView – AI-Powered Career Preparation App](https://careerview.fladdra.com)  
-*Tech Stack: FastAPI, React Native, MongoDB, React.js, LangChain, ChatGPT*
+#### [Movies Financial Performance (P&L) Report – Excel Project](https://github.com/Rizwankhan1717/Movies_Financial_Performance_P-and_L_Report-Excel_Project)  
+*Tech Stack: Excel*
 
-- Developed backend services using FastAPI to handle media file uploads, implement data processing pipelines, and manage asynchronous assessment workflows.
-- Built a mobile application enabling users to complete video-based assessments, automatically transcribed for analysis.
-- Integrated LangChain with ChatGPT for dynamic question generation and intelligent response evaluation.
-- Implemented dynamic features such as AI-driven mock interview question generation based on user resumes and personalized learning content, leveraging AI for automated course creation.
+- I developed an interactive Profit and Loss (P&L) Report for movie data using Excel to analyze studio-wise and movie-wise financial performance..
+- The report highlights key metrics such as revenue, budget, and profit margins, helping identify top-performing studios and movies.
+- It provides valuable insights for improving investment decisions, optimizing budgets, and maximizing profitability in the film industry.
+- This project analyzes movie financial data to uncover key profitability trends, showing how different studios balance budgets and revenues. The insights help guide data-driven decisions for maximizing returns in the film industry.
 
-#### [Educationist – Career Guidance Platform](https://educationist.ai)  
-*Tech Stack: Django, DRF, Next.js, ChatGPT API*
 
-- Created an AI-integrated platform offering career suggestions and dynamic question generation using ChatGPT API.
-- Developed student and admin dashboards for managing inputs, analyzing responses, and providing personalized guidance.
+#### [Sales and Finance Analytics – AtliQ Hardwares](https://github.com/Rizwankhan1717/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares--Excel-Project)  
+*Tech Stack: Excel*
 
-#### [Fladdra Web Application](https://fladdra.com)  
-*Tech Stack: React.js, FastAPI*
+- This project analyzes the sales and financial performance of AtliQ Hardwares. It helps the management team understand customer performance, market growth, and profit trends using data-driven insights.
+- Customer Performance Report : Created a detailed report to assess customer performance.
+- P&L Statement By Fiscal Years Reports: financial performance across different fiscal Years.
+- P&L Statement By Fiscal Months Reports : financial performance across different fiscal Months
+- P&L Reports by Markets: Check profit and loss in each market
 
-- Developed a responsive web application using React.js for the frontend and FastAPI for the backend, focusing on performance and scalability.
-- Implemented dynamic user interfaces with React components and built high-performance APIs for seamless data handling and processing.
-
-#### [EzyEv – Vehicle Battery Subscription Management App](https://fladdra.com)    
-*Tech Stack: Django, DRF, React Native, PostgreSQL*
-
-- Developed a subscription-based vehicle battery swap mobile app with secure login and real-time vehicle management.
-- Integrated backend APIs for smooth operations and responsive mobile interfaces using React Native.
-
-#### [ITSM – IT Service Management System](https://fladdra.com)
-*Tech Stack: Django, DRF, React.js, Axios*
-
-- Created RESTful APIs to manage IT service tickets, user requests, and support workflows.
-- Built the frontend using React.js, integrating APIs via Axios for real-time request tracking and admin controls.
 
 ---
 
 ### 🎓 Education
 
-**Master of Computer Applications (MCA)**  
-Sinhgad Institute of Business Administration & Research – Pune  
-2022 – 2024 | CGPA: 7.48
+**Bachelor of Enggineering** 
 
-**Bachelor of Computer Applications (BCA)**  
-Smt Maherbanu College of Science & Commerce – Akola  
-2019 – 2022 | 78.53%
+Prof Ram Meghe Ram college of Engineering and management - Amaravti 
+
+2018– 2022 | CGPA: 8.00
 
 ---
 
 ### 📜 Certifications
 
-- [Udemy Certificate – Python Programming](#)
-
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Furqan&layout=compact&theme=light&langs_count=8&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Furqan&theme=light&hide_border=false)
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Furqan&bg_color=121212&color=ffffff&line=ffffff&point=00ff40&area=true&hide_border=true" alt="Mohammad-Furqan" /></p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
+- Data Analysis and Visualization with Power BI by Microsoft(Coursera)
+- Code-Cheff: learn SQL & adv SQL
+- Excel: Mother of Business Intelligence by Code basic
 
 ---
 ### 📫 Let's Connect!
 
 I'm open to collaborations on exciting projects. Feel free to reach out!
 <div align="left">
-  <a href="mailto:mohammad.furqan0811@gmail.com" target="_blank">
+  <a href="mailto:rizwankhan0954i@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-furqan0811" target="_blank">
+  <a href="https://www.linkedin.com/in/rizwan-ahmad17/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
