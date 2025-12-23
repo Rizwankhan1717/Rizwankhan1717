@@ -55,13 +55,14 @@ I'm a passionate Data Analyst with experience in Excel, Power BI, SQl technologi
 
 ### 🚀 Projects
 
-#### [Movies Financial Performance (P&L) Report – Excel Project](https://github.com/Rizwankhan1717/Movies_Financial_Performance_P-and_L_Report-Excel_Project)  
-*Tech Stack: Excel*
+#### [Movies Financial Performance Analysis using SQL](https://github.com/Rizwankhan1717/Movies_Financial_Performance_Sql_Project)  
+*Tech Stack: SQL*
 
-- I developed an interactive Profit and Loss (P&L) Report for movie data using Excel to analyze studio-wise and movie-wise financial performance..
-- The report highlights key metrics such as revenue, budget, and profit margins, helping identify top-performing studios and movies.
-- It provides valuable insights for improving investment decisions, optimizing budgets, and maximizing profitability in the film industry.
-- This project analyzes movie financial data to uncover key profitability trends, showing how different studios balance budgets and revenues. The insights help guide data-driven decisions for maximizing returns in the film industry.
+- Retrieved and analyzed movie data to understand industry-wise and studio-wise performance.
+- Compared IMDb ratings across Bollywood and Hollywood movies.
+- Calculated movie profit, revenue conversions, and normalized financial values for analysis.
+- Identified top-rated movies, high-performing studios, and years with maximum releases.
+- Worked with movies, actors, and financial datasets to practice real-world SQL analysis
 
 
 #### [Sales and Finance Analytics – AtliQ Hardwares](https://github.com/Rizwankhan1717/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares--Excel-Project)  
@@ -72,6 +73,16 @@ I'm a passionate Data Analyst with experience in Excel, Power BI, SQl technologi
 - P&L Statement By Fiscal Years Reports: financial performance across different fiscal Years.
 - P&L Statement By Fiscal Months Reports : financial performance across different fiscal Months
 - P&L Reports by Markets: Check profit and loss in each market
+
+
+
+#### [Movies Financial Performance (P&L) Report – Excel Project](https://github.com/Rizwankhan1717/Movies_Financial_Performance_P-and_L_Report-Excel_Project)  
+*Tech Stack: Excel*
+
+- I developed an interactive Profit and Loss (P&L) Report for movie data using Excel to analyze studio-wise and movie-wise financial performance..
+- The report highlights key metrics such as revenue, budget, and profit margins, helping identify top-performing studios and movies.
+- It provides valuable insights for improving investment decisions, optimizing budgets, and maximizing profitability in the film industry.
+- This project analyzes movie financial data to uncover key profitability trends, showing how different studios balance budgets and revenues. The insights help guide data-driven decisions for maximizing returns in the film industry.
 
 
 ---
